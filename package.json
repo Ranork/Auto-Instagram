@@ -1,0 +1,22 @@
+{
+  "name": "auto-instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "social media",
+    "automation",
+    "puppeteer"
+  ],
+  "author": "Ranork <ranorkk@gmail.com> (https://github.com/Ranork)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^22.10.0"
+  }
+}
